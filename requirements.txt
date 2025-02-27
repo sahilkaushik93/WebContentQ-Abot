@@ -1,0 +1,17 @@
+streamlit
+langchain
+langchain-community
+beautifulsoup4
+requests
+faiss-cpu
+tiktoken
+sentence-transformers
+huggingface_hub
+pickle-mixin
+langchain-huggingface
+sentence-transformers
+torch
+torchvision
+torchaudio
+beautifulsoup4
+concurrent-log-handler
